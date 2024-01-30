@@ -147,5 +147,11 @@
 	        <artifactId>selenium-java</artifactId>
 	        <version>4.11.0</version>
         </dependency>
+	<dependency>
+	  <groupId>org.apache.maven.plugins</groupId>
+	  <artifactId>maven-compiler-plugin</artifactId>
+	  <version>3.12.1</version>
+	  <type>maven-plugin</type>
+	</dependency>
     </dependencies>
 </project>
